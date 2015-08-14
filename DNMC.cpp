@@ -1,4 +1,11 @@
-﻿#include <stdafx.h>
+// A Monte Carlo simulation code developed 
+// to solve the atom diffusion passivation problem. 
+// Code developed 2013-2014
+// paper published based on this code:
+// Applied Physics A
+// August 2015, Volume 120, Issue 2, pp 635-639
+
+#include <stdafx.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
